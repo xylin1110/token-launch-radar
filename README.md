@@ -4,9 +4,9 @@ A token launch radar for the make.fun `token-radar-01` bounty: it reads a sealed
 snapshot of every protocol DefiLlama tracks, ranks the ones that record no token yet
 by what a launch would be worth, and shows a reader how to farm each one.
 
-![token-radar-01](https://make.fun/badge/token-radar-01.svg)
-![rank](https://make.fun/badge/token-radar-01/xylin1110/token-launch-radar/rank.svg)
-![reward](https://make.fun/badge/token-radar-01/xylin1110/token-launch-radar/reward.svg)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/xylin1110/token-launch-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/xylin1110/token-launch-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 ## What it does
 
