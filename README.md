@@ -5,11 +5,8 @@ snapshot of every protocol DefiLlama tracks, ranks the ones that record no token
 by what a launch would be worth, and shows a reader how to farm each one.
 
 ![token-radar-01](https://make.fun/badge/token-radar-01.svg)
-
-> The per-repo rank and reward badges are added once this repository has its final
-> owner and name on GitHub; they live at
-> `https://make.fun/badge/token-radar-01/<owner>/<repo>/rank.svg` and
-> `https://make.fun/badge/token-radar-01/<owner>/<repo>/reward.svg`.
+![rank](https://make.fun/badge/token-radar-01/xylin1110/token-launch-radar/rank.svg)
+![reward](https://make.fun/badge/token-radar-01/xylin1110/token-launch-radar/reward.svg)
 
 ## What it does
 
